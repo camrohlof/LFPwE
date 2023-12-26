@@ -1,0 +1,345 @@
+Compiling 1 file (.ex)
+Results:
+
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/CLSContactCache.sqlite-wal",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/construction-photosgraph.kgdb.lock",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/photosgraph.kgdb.lock",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/photosgraph-tmp.kgdb-wal",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/construction-photosgraph.kgdb-wal",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/ftemetrics",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/CLSPublicEventCache.sqlite-wal",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photolibraryd/caches/libraryavailable",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photolibraryd/caches/CreateDatabase_20230124-114229-08:00",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/internal/crowdsourcedthemes/com.apple.photos.geoanalytics/lock",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/journals/DeferredRebuildFace-change.plj",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/journals/FetchingAlbum-snapshot.plj",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/journals/ProjectAlbum-change.plj",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/journals/FileSystemVolume-change.plj",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/database/protection",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/database/search/psi.sqlite-wal",
+ "/Users/cameronrohlof/Pictures/.localized"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/B/B1B2FB71-09C9-4427-8017-CD8518A475DF_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/A/A9589FAA-AE5B-422D-8C6D-6411AD1D1F3A_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/6/61A7739C-BD0F-4CB5-B503-4B528C5E4CEF_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/0/0E417055-9AA6-420A-BC65-1E01ACAA8772_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/E/EDC073A5-1215-4340-8EED-D2E2E3DAAF17_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/6/66F8600F-F061-463F-ABA5-10781B762A31_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/3/339EF796-EC29-4620-8BB6-149E3A3E1D9E_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/3/327A881C-92C4-445B-913D-BC170C55F4EE_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/8/8D0CE19D-7277-4B2E-81B6-8C33693C1D94_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/9/9FED66F5-A90E-45A2-A863-859092892BC1_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/4/4DB4D580-7718-4964-9382-EBDBC580E821_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/8/8CA19FC7-4DE2-4453-920F-0A44E24AAA43_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/masters/D/D37B170D-6643-411F-B0DC-7BB2CC594DFC_4_5005_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/masters/A/A508C037-6D72-4CD0-87F3-E8F97704B617_4_5005_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/3/3D9B3BE5-B3FF-4684-A51B-F22D15ABFDD7_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/0/04918D11-6EF8-406E-A55C-E1C204CF19EB_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/5E0EEEB7-B45A-4412-9073-EDACADACAF1D.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/5651322C-20C9-47E9-B6D8-1377D22CB59C.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/203567E1-1BF8-436C-A2FA-8034883D0056.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/E/E8C30803-231A-40C2-A46C-FFD6976FD2B1.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/E/E004E3E6-8201-429D-80D7-12CA2B3D75C1.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/39C44DA7-3AB7-4246-9103-5831A9DE97AE.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/A/A7BEDFA8-A436-4F64-A6D9-CC912D22104D.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/A/ACB11078-1FAE-4366-B140-AFB23F4D2EBD.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/8/8B1D87D0-ECDA-412C-80C5-9F3E61179B71.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/9/9198334E-6FAA-4C31-B174-61D05FEC0817.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/D/D92E98A7-750E-4456-9D39-FB94E5AF9DE8.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/C/C4576C4D-6E22-4F2A-A1C8-7CC7571D8D26.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/D/D1B5ED72-9401-4A8C-A135-4E6E26F54DC7.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/F/F342C3D9-2E05-4824-B5EB-EF7039AA13F6.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/527EE0CA-0A8E-4CF4-B63B-934E29D4A988.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/5DEE4FD2-9721-4FF2-ACAC-48D554BA5299.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/2E4E22DC-D0F6-436F-89B3-62993208F3AB.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/B/BB24EC47-0204-4D37-8295-965453695B3D.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/3C4579D5-35A0-450E-8885-3EF6B3081282.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/4/4AD2F29D-A183-4FB6-9AF0-EFC96ACBF939.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/4/4FD53741-AC6B-480F-84F2-5B479F1AA694.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/4/4C643DE6-346E-4DA7-BFB8-1316AD4AF588.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/F/F02312E3-D5B1-4B31-B1F3-58FAC00E9C74.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/A/A5ACAA7A-07D2-4EBE-A93E-C5668121BCD4.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/A/A6C454BC-3D67-4F9E-B812-4B8BB7923C97.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/A/A12B05A8-F9D5-4D39-934A-1F87175FF517.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/6/655CF7A5-D5C8-4256-8F04-800A0B1305FD.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/09DCE813-BEF7-4DD3-B294-735DF37D3396.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/9/9F547DA9-B1DE-4BD7-B921-E521F563DAB5.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/9/99B17442-85E6-4A2F-82F2-7C459E84A9A6.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/D/D6F891DC-25AB-408B-897A-F6C6B71C41CA_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/1/140C4BF0-6E09-4A84-8C4D-07D79C547A57_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/5E6594BE-A4B4-4D2C-B5C1-D2A75E44803A.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/5C414C61-E2CE-42A3-944D-530476E0C50E.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/2979E022-ED65-419D-8937-666F10907B23.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/B/B487A6E0-F24F-48C1-86EF-F8CFC8F2E4D6.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/3E848A43-B373-4230-BD4C-FC3D2701E130.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/D/D54505E5-FD9B-4003-9372-C10255F46CAF.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/C/CD336BBA-8A8D-4F8E-9A27-F9CDE7FCF97F.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/C/C3B0B866-A17E-4E31-8782-1A8A3D8AE55A.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/6/644741F6-AC13-471A-B17D-7CBAE601301A.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/6/63CCBF5A-735C-46DF-86A9-3D0F1F03E93B.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/7/7A27E337-F274-4750-97C7-8E150316507B.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/7/763B73EB-E5E8-46EC-BE78-EF0BE3410B04.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/0341537C-DA12-4105-A589-7EAF89D67290.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/9/9B564190-447A-4C77-9B35-4DAF473A95E0.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/A/AD8E128A-F5C1-437B-ABDD-9E7D6501E392_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/6/61350FAC-343E-4078-A502-2155C538CA8D_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/5232B066-EC98-442B-8DFA-87E69E4B0DA7.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/2837FFDB-8F54-468D-AF88-BC4972305E96.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/E/E4A583DE-8250-472C-B516-129E1404611D.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/30793CAE-4F68-4373-834A-CCEEB978B931.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/3EF7CA8E-282F-493C-ABED-6EE0954CC9F8.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/D/DCA26A50-0BB1-4124-A138-BB37FE6BAE0F.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/A/AEB88BE9-6F7E-4EC5-B661-F029526BF53E.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/8/8976CA01-73DD-4709-88C7-0846943907EE.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/1/11B9472C-9292-4D0F-962A-5381343DBCD8.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/7/737EB7A4-AADC-44EB-B7A1-9C34B266C909.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/04596EF2-520F-4F48-BC6B-26BD6B1917B0.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/006416DA-2D82-48B2-B9B3-FAE8FB8D072D.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/56A1A8F6-311A-462E-83E7-BBA53D02E5B1.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/B/BD628C12-35AB-4E7D-8362-077E7F089B1A.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/352F3080-A902-4E7F-9329-EA47110EA136.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/C/CD624F90-BC68-4C3E-8F88-B54C19B81E1A.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/01824D14-44B9-4DBC-A2D0-D680A4A8F2E8.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/01442900-5F93-4E39-B4BC-115FE395EB56.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/9/987355A3-F621-4BD5-81AD-F2FF46BC1482.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/1/1EEF0EE2-7FA1-4BD1-B19F-BDB5FCA0A9F5_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/6/6CD3207D-1B4B-42A3-86E3-5D80F02F9356_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/D/D1B5ED72-9401-4A8C-A135-4E6E26F54DC7_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/F/F342C3D9-2E05-4824-B5EB-EF7039AA13F6_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/5879DDFA-23B3-45F6-91E6-343F9AF1801C.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/587EA9EF-5B48-4A2C-AAA0-4A7AE8077C75.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/B/BFF78FA2-8D26-4C4D-9AF9-7793C7A53260.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/E/EA9FAEBE-8533-41A7-B764-252EB6E43423.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/3D826F3C-7BBD-4DCC-97C8-F9D63C643CA9.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/34A1632C-0CF3-4747-8503-494872226B5A.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/4/42621867-01DF-44CA-AAD0-3E6A268E7F67.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/D/DFE91165-65DA-4407-8850-74542AEAB1B2.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/D/DD9AA067-57ED-4CDE-9F9F-F7F87A791148.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/8/849E6520-CD8A-4E91-8FDB-D6DAACA8DA96.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/8/8C3D150F-0275-4A7F-9737-524E20991958.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/8/89D17732-4904-44C9-B901-E0D859E57169.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/8/8609ABBD-51EE-46A0-94C9-BEC0CF882271.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/7/7E43C855-ED06-4C62-82A3-CEA99127AA23.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/01C9E77A-11B6-42F5-B256-D1C7DE8CE453.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/05937B07-1909-4E66-ABD7-117295A63F9D.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/E/ECE2D0CB-5C1C-4A93-802B-020CA4274C18_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/3/39EDE7AE-77DA-405D-8175-002A5000DF9B_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/8/85426536-9CA8-4C02-A8F5-E93479CD3432_1_101_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/6/62917B38-344E-47BA-B59E-7BC62CBF74D8_1_101_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/C/C13BD69E-BA50-4B8C-ADE8-5DF784D56ECB.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/F/F84EF200-21A6-43B9-A7C2-92CAB8E1F421.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/3/3D9B3BE5-B3FF-4684-A51B-F22D15ABFDD7_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/0/04918D11-6EF8-406E-A55C-E1C204CF19EB_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/F/F183D45B-70B2-40CB-B1F2-8A29A65238F8_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/0/021059FB-95FE-4153-8AAC-E49029B789C0_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/E/EDC073A5-1215-4340-8EED-D2E2E3DAAF17.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/6/66F8600F-F061-463F-ABA5-10781B762A31.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/3/327A881C-92C4-445B-913D-BC170C55F4EE_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/3/339EF796-EC29-4620-8BB6-149E3A3E1D9E_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/E/ECE2D0CB-5C1C-4A93-802B-020CA4274C18.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/3/39EDE7AE-77DA-405D-8175-002A5000DF9B.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/56D455E5-91ED-4AA2-BD9C-206128ABCED7.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/24F7DB79-1C55-4EF8-9D67-4C3D1DF510BE.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/2CDDC2F1-C9E3-4090-9692-178FC17742DA.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/2C496003-9243-431B-8EA2-2C99F98B1E1F.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/B/B479391B-C5A5-48A5-B845-0BE7928E502D.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/B/BCB02992-38B1-4235-BC28-D5AB72491636.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/E/EEC7FFC5-AA46-4928-A6FD-0DA5BAFAD923.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/3D9670B6-479C-440D-B771-A1127C628CB6.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/4/4ED97923-92EC-46AF-9EC4-4E1D478E30A3.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/D/DE20F280-E378-4B12-9BBA-F726833EDE08.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/C/C9F412C4-A083-4F20-AE65-27E80039D5E5.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/C/C6C6F68E-D920-46EA-9A5D-627AB1BCF8A4.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/F/F8598811-4823-4660-8069-5B2F98EB53E2.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/A/AFCA0686-B5DE-4BD4-87D6-D0D9CD6E8618.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/1/1EBF65E1-F026-40F9-8ADF-156DE31CFAB2.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/6/6D42B17B-128A-4454-B360-128447544689.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/07BA80A8-EF5A-4DF4-971A-2280066D94DD.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/B/B2BFEFA3-88C2-4503-BB70-47A4E0F323E3_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/E/E9A29CD6-6DBE-46FC-A17B-C1BC7500AB9F_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/5BC63D0A-FD5C-4CFA-B425-654EC5E2D2A3.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/6/68071131-9512-431B-B116-35FD10B2667C.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/9/94AA68AE-7F98-4CB1-B411-E6F58B2D05CE.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/D/D4621C35-D505-4145-AFC2-9A01E0128D57_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/9/9959B553-1467-4509-A9AF-74022C3DC432_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/4/4183005E-7342-4E48-BB22-5A187433B2F1.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/F/FA08BECC-6FFD-4EAA-B510-5BA2DE1BD2AE.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/1/136A879E-3449-4404-8F05-0215DD3D9398.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/A/A2E5B1A6-1F61-4C67-A63D-B10C806191B3.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/8/8EB34C46-D106-426E-B0E0-664090161B4F.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/1/1D74A926-C2A1-40C1-BAD1-F85C1F924674.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/6/672A46E8-3DEB-4B11-9056-83F32E3E078F.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/7/73CD4354-3C91-4039-A832-689582793767.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/7/7AEF2E53-3245-4D71-B9F1-92504946842C.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/3/3C69B78F-60E2-4F32-9DA0-D7BD7ECEB798_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/D/D1E22FBB-EDDE-412C-B488-32745AC760F9_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/D/DDBE613B-F91E-47F3-9F41-E28E0C86FE3F.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/1/1648339A-17AC-4B18-9CB5-93D6538AB228.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/59A20DD1-2B86-4CED-90EE-874973F9519E.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/E/E542067B-D37F-4358-8C6F-8AC15B8C8F5C.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/35C1F492-4A0C-4C2C-954F-B1B2AC247A4D.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/F/F7ABFA13-DF7A-490B-A966-C2AFE4BC5241.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/6/6B96D9DC-22CF-4A68-9D76-7599425E3F0B.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/9/981180DD-CFE5-4E8B-AC67-86038647E2E3.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/B/B7A3C6A7-AE4F-4FD5-A17F-0669D10D6B3A_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/0/04D6A4DC-6FDD-44E6-A79C-09197032D415_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/C/C13BD69E-BA50-4B8C-ADE8-5DF784D56ECB_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/F/F84EF200-21A6-43B9-A7C2-92CAB8E1F421_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/5BF3BF3D-C5FC-4A17-AEBB-393DB440C31F.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/2518AA76-5369-4D72-A054-5C3F9278DEA1.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/6/61A7739C-BD0F-4CB5-B503-4B528C5E4CEF.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/0/0E417055-9AA6-420A-BC65-1E01ACAA8772.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/masters/5/52FD5083-441C-4625-8A66-4E78000CA801_4_5005_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/masters/C/C6AC0162-CF61-4191-BFFD-B243C7B0258E_4_5005_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/28BC9C1D-760C-499B-8982-0351580ADABF.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/D/D2FB299D-C350-424F-9EB4-E86C4B417944.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/C/C3D82BF3-E330-4925-BCD6-A1EEEF7CF624.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/1/1C53601E-3F22-4DD5-90B7-FE61EB562BB3.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/1/1F1E2A7E-47B6-4820-93D2-C33BC455F069.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/6/6314091B-E68A-4188-B93B-C466E004149F.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/E/E59E0D34-53D6-4FA7-B5F5-35E62F757B3B.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/E/E20E59CC-2293-48F3-8EE3-C77F23C6C877.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/C/C35036DA-96D0-4513-A3C9-43903F90FB24.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/1/1ADFC2F6-5E8B-4EB6-AEAF-64210139852D.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/7/713BF317-7B37-46B6-B681-3ABECD0D6800.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/7/77C6F3E1-2FED-4A22-BAA9-FEBFB19EB2DF.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/9/9A252B8D-706D-420C-9398-77479BA87553.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.mobileslideshow.photospicker/appPrivateData.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.mobileslideshow.photo-picker/appPrivateData.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/28224361-617E-495A-ACC5-F8A0CA69A4C2.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/9/943A7FDE-261B-4443-A885-151078635E21.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/5B686513-A16E-4380-92AC-9919A004D441.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/5C0EA0C7-0207-4F24-8653-4084D088B674.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/37200872-636E-434B-8641-027270F14A6C.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/4/460272ED-9361-4D54-A2D5-1F989F77BDEF.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/4/4BB1E90D-2C89-47C0-B467-A24113E12CBE.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/D/D4A665BD-3839-4726-8278-15BBF276B6EA.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/F/F06CB4FA-4708-4C00-979D-FC4B728D9FF5.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/F/F98CC53C-AE02-4490-9336-AA5C52B9BF42.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/A/A7DA681D-463C-4037-AC6E-85D56A6AB11C.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/A/A6334E63-206C-4EFA-BC39-BEDB22CC13C2.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/7/72894ABE-E75E-41D7-8884-2110B14685ED.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/7/7045C259-ADD1-4C3A-BD48-504ECACB13F9.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/05844B7F-829D-40E0-8923-D5F726C76CA9.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/017C1088-DEEB-4E68-955E-27859F399761.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/20E4E2E0-8CC1-452E-8406-1A4D5CE61E0D.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/27EDE1D0-A45A-48C5-B522-3AB17EEDE3FD.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/2C163D5C-A156-47AB-BDAE-97FD605CB5BF.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/2DEF2B4D-B6EB-4399-87C6-C09A4A7EA349.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/B/BC4F3DFC-A87C-4A56-B2CA-2336B1FF5D99.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/B/BA10567F-1B67-4C97-85FD-6374D8628E05.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/B/BA4A9AF6-D94A-431C-8A82-FB45C19C8FB7.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/301D0483-38DB-476C-B8A6-5C189100DD37.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/3B5F7BEA-8A31-4876-8731-42AE99861575.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/4/4E3CD487-9CFB-4455-8A22-75EF73B58F87.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/4/4FCFB28F-3953-451C-B3E2-76AA25B669B3.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/4/44BD9BCA-F658-43B6-8999-8DB483187777.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/D/D61C9EAD-153F-4DAE-8F89-5E6F8AAF9CF7.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/C/CC0B9C26-2007-47FE-89C0-9577BAA124A8.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/F/F6973963-3B82-47ED-8376-CF2028D11237.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/F/F77261FB-7FF0-4E06-82FD-B893FD65B422.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/F/FC5E58FB-84E0-495D-B9BB-A9AC86EE8BEB.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/8/84B8725A-8BF1-4B50-AD93-70532C70028C.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/1/1790C653-3F5E-4928-AB06-49154A54BDA3.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/6/6AD64139-9729-4677-B77F-42818E3B73A5.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/6/687D06D0-15E0-4600-AAFE-F32404D820EB.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/7/7BD571EF-A0DB-4897-8F11-20D2D7DCFA34.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/7/71805220-9B4F-4BBD-B2E6-93A2AB7DE10F.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/06A68A05-13DC-4EDC-90EC-26ABC6C039E0.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/3/3C69B78F-60E2-4F32-9DA0-D7BD7ECEB798_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/D/D1E22FBB-EDDE-412C-B488-32745AC760F9_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/A/A01B7DB2-1F39-4FD3-AFFD-F65358672405_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/A/AF8E5155-F8A2-4000-A022-CF9267E5E6F3_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/5BCAACF6-6BD7-4A47-A8A6-BEF5055554FA.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/E/E6AE66C0-C173-4BD3-87D4-46E40B952B9E.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/4/4DB4D580-7718-4964-9382-EBDBC580E821.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/8/8CA19FC7-4DE2-4453-920F-0A44E24AAA43.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/B/B0852A2F-E615-4BA5-B62E-C848F53FBD4E_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/3/3ED76323-83DB-47DD-90AC-CF9F83D7A05F_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/database/metaSchema.db",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/database/photos.db"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/scopes/cloudsharing/data/1349987473/B9967982-2AB9-4879-A832-40EF4B5D7331/7AF150D8-8BA6-43D4-AEA6-AF36BC369E68.poster.JPG",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/C/C2D88322-7821-425A-B3CE-786F11883D79_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/D/DF4DF3F6-CA10-4FFC-AF56-0EF4783CC5DB.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/6/6EB86399-EA01-462F-A39A-45DE41D3F9B4.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/masters/A/A0CAF9EC-6EE9-4678-9D3F-1A1981B59146_4_5005_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/9/94AF6F11-83A9-4DDC-8606-2FC46F436E5E_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/B/B7A3C6A7-AE4F-4FD5-A17F-0669D10D6B3A_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/0/04D6A4DC-6FDD-44E6-A79C-09197032D415_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/photosgraph-tmp.kgdb",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/construction-photosgraph.kgdb",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PGCurationCache.sqlite.sqlite"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/A/A382D87F-6F6E-4104-BFCE-4E4DC9BA0A4D.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/6/6C2A0624-2452-42F7-9225-726C18473AE4.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/0/0868D0C4-AA2A-4739-BB50-7CDB6B658D3C_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/0/04874348-8B2E-48D1-81E9-497B4B7D19FE_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/6/6DA50576-E891-48B4-B99D-66B8E8D3B4A3_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/9/928A0970-80FB-411B-AC97-81326E2C5F02_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/388B7599-EBD4-42A5-AABD-5E663BB2060B.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/3FA00D68-5D86-4713-B059-9C29D1510731.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/0E70606A-08F4-4D53-B2CF-A304F9A65D64.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/B/B0852A2F-E615-4BA5-B62E-C848F53FBD4E_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/3/3ED76323-83DB-47DD-90AC-CF9F83D7A05F_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/7/75536A24-BC42-4C22-9C3E-4C9C32930004_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/0/0DE944E5-924B-4F9A-B72D-FE3A998BE171_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/C/C70A6936-93FA-4130-8364-8DFF6E8E6B18.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/00E679B5-B17D-4746-B306-62C36475A147.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/journals/DeferredRebuildFace.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/journals/ProjectAlbum.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/journals/FileSystemVolume.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/5/5D9F94AA-198F-4F65-B8C9-45433F2A8B08.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/7/778D42DA-6FA1-439D-A9DA-DF6944794817.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/F/F183D45B-70B2-40CB-B1F2-8A29A65238F8_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/0/021059FB-95FE-4153-8AAC-E49029B789C0_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/21DCD3FF-E0CC-4FE7-80B1-2E377B614BD1.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/B/B2053D58-30CB-461A-98E4-85AB518FE906.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/E/E43F78D0-26E5-4F20-B72A-9805AAACBE8E.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/D/DE0BB0DD-6E0E-4471-83C3-C1FAF41D2D0A.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/8/8A090DA4-FFC5-4B81-AF51-D0BAE003E3D0.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/8/8FF7ED30-B955-4BBB-9379-6A2548C5650E.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/1/1ED5C287-A450-40BE-9569-EF40FE8D0C25.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/0/0114CF66-AC2D-40BB-B15B-FD8109006DA6.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/0/04874348-8B2E-48D1-81E9-497B4B7D19FE_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/0/0868D0C4-AA2A-4739-BB50-7CDB6B658D3C_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photo on 1-25-23 at 9.47 AM.jpg",
+ "/Users/cameronrohlof/Pictures/Photo Booth Library/Pictures/Photo on 1-25-23 at 9.47 AM.jpg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/D/D4621C35-D505-4145-AFC2-9A01E0128D57_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/9/9959B553-1467-4509-A9AF-74022C3DC432_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/4/41C12DFC-55C1-4373-A0BE-58FB49867945.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/A/AB9BEDE5-004D-43F5-A76D-AAF69F634862.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/E/E6A578B2-0D18-4C1F-A11D-4B4151367F4F.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/33FB03CA-7887-4E98-BD40-222E622BF2BF.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/9/97234BF7-7E0C-45A1-86BD-05B10CBB2017.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/6/6DA50576-E891-48B4-B99D-66B8E8D3B4A3.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/9/928A0970-80FB-411B-AC97-81326E2C5F02.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/7/75536A24-BC42-4C22-9C3E-4C9C32930004.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/0/0DE944E5-924B-4F9A-B72D-FE3A998BE171.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/B/B72B52D0-6921-403D-9FB7-108FB06C1935.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/originals/C/C5C52C5C-57BE-46E9-8776-AC01CCC781A9.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/B/B2BFEFA3-88C2-4503-BB70-47A4E0F323E3_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/E/E9A29CD6-6DBE-46FC-A17B-C1BC7500AB9F_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/photosgraph-tmp.kgdb-shm",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/PhotosGraph/construction-photosgraph.kgdb-shm",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/private/com.apple.photoanalysisd/caches/graph/CLSPublicEventCache.sqlite-shm",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/database/search/psi.sqlite-shm"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/4/46F2B7F6-481D-4A04-A7D7-CE8C0FD89C60_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/F/F857D088-520E-45A1-BDF5-38C57120C965_1_102_o.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/2E570F60-C793-46EA-ACB6-E343D8B84336.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/E/ED2BA3A3-F567-4F61-B4CB-6F543D389AE6.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/A/ABDD8CC3-D537-4013-9D5D-4A5E3B3FB8EB.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/A/A382D87F-6F6E-4104-BFCE-4E4DC9BA0A4D_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/6/6C2A0624-2452-42F7-9225-726C18473AE4_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/5/567E4376-566C-43BE-A963-0E972B8839AA.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/2C9DD725-A89A-4C26-B81A-B1184AC89E86.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/2/2754D0DB-C0FF-4385-9A52-01E5A2CDCE78.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/E/E859E7E8-B24F-49C5-8A87-DD26719B4FEA.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/3/32C1179A-566A-4EA0-9CB2-74AD1EBC474A.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/F/F2364E01-8756-41D4-9474-47D5F60BB899.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/A/A2216939-61B6-4F28-96F1-B64246519566.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/8/851927E0-E9ED-4D79-AE70-5822111C9B96.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/1/17BCE2FB-E22A-4CCE-A29F-7672DE4C901F.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/7/78C9F8D6-3E19-4B8B-9D30-A45158A81234.plist",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/renders/9/9D6987EF-FE8A-4944-8AE1-3205385CE8B3.plist"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/D/DF4DF3F6-CA10-4FFC-AF56-0EF4783CC5DB_1_105_c.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/6/6EB86399-EA01-462F-A39A-45DE41D3F9B4_1_105_c.jpeg"]
+["/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/D/D6F891DC-25AB-408B-897A-F6C6B71C41CA_1_102_o.jpeg",
+ "/Users/cameronrohlof/Pictures/Photos Library.photoslibrary/resources/derivatives/1/140C4BF0-6E09-4A84-8C4D-07D79C547A57_1_102_o.jpeg"]
